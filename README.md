@@ -1,7 +1,4 @@
-# MITTR
-Sure, here's a README for GitHub:
 
----
 
 # Mittr
 
