@@ -18,7 +18,7 @@ MITTR is a cross-platform mobile application specifically designed for Alzheimer
 https://youtu.be/pUcjQ7dqClA
 
 ## Presentation
-https://gamma.app/docs/Mittr-An-App-for-Alzheimers-Patients-0tlglqqtw7m4o7z
+https://shorturl.at/yLCFk
 
 ## Tech Stack
 
